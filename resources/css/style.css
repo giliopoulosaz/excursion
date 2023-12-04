@@ -23,6 +23,11 @@ body {
   color: grey;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* LINKS */
 
 .link--cta {
