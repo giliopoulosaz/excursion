@@ -24,8 +24,9 @@ body {
 }
 
 img {
-  max-width: 100%;
+  max-inline-size: 100%;
   height: auto;
+  block-size: auto;
 }
 
 /* LINKS */
